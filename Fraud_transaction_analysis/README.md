@@ -64,7 +64,31 @@ Detect anomalous transactions **without labeled data** by leveraging:
 - 🔐 Suspicious patterns include:
   - Increased login attempts  
   - Longer transaction durations  
-- 🌐 Online transactions show higher anomaly rates  
+- 🌐 Online transactions show higher anomaly rates
+
+---
+
+## 📊 Visual Insights
+
+### Fraud Rate Over Time
+![Fraud Trend](images/fraud_trend.png)
+
+---
+
+### Transaction Amount Distribution
+![Distribution](images/distribution.png)
+
+---
+
+### Fraud vs Normal Comparison
+![Boxplot](images/amount_boxplot.png)
+
+---
+
+## 💰 Business Impact:
+- Early fraud detection reduces financial loss
+- Hybrid approach reduces false positives
+- System can be adapted for real-time monitoring
 
 ---
 
