@@ -123,7 +123,7 @@ fraud-detection/
 │
 ├── fraud_detection.ipynb
 ├── README.md
-├── requirements.txt
+└── requirements.txt
 
 ---
 
